@@ -1,0 +1,52 @@
+[
+    
+    {
+        "id": "1",
+        "name": "Bithday Event",
+        "image":"https://i.ibb.co/7NTjmFQ/birthday.jpg",
+        "price":3000,
+        "description":"Birthday events are special occasions held to celebrate an individual's birthday. They can range from small, intimate gatherings with close friends and family to large, extravagant parties with a multitude of guests. The description of a birthday event typically includes various elements to help guests understand the details and theme of the celebration."
+
+    },
+    {
+        "id": "2",
+        "name": "Music Event",
+        "image":"https://i.ibb.co/q7Szryg/music.webp",
+        "price":2000,
+        "description":"A music event description is essential for providing attendees with information about a musical gathering, whether it's a concert, music festival, live performance, or any music-related event.Clearly state the date and time of the event, including the day of the week, as well as the start and end times.Provide the complete address of the venue where the music event will take place, along with any relevant directions or parking information."
+
+    },
+    {
+        "id": "3",
+        "name": "Comedy Event",
+        "image":"https://i.ibb.co/W6Dd4G2/comdy.webp",
+        "price":5000,
+        "description":"A comedy event description should be entertaining and humorous while providing essential information about the upcoming comedy show.Provide the complete address of the venue where the comedy event will take place. Mention if the event is indoors or outdoors and include any parking or accessibility information."
+
+    },
+    {
+        "id": "4",
+        "name": "Halloween Event",
+        "image":"https://i.ibb.co/7SNhnvk/hollwen.webp",
+        "price":7000,
+        "description":" A Halloween event description is designed to convey information about a festive gathering celebrating Halloween, which typically includes costumes, decorations, and various spooky or fun activities. Highlight any costume contests or competitions that will be held during the event. Mention categories, prizes, and judging criteria."
+
+    },
+    {
+        "id": "5",
+        "name": "Dance Event",
+        "image":"https://i.ibb.co/wR4TMm7/dance.webp",
+        "price":11000,
+        "description":"A dance event description is crucial for providing attendees with information about a dance-related gathering, whether it's a dance performance, dance competition, dance workshop, or any dance-themed event.Provide the complete address of the venue where the dance event will take place, along with any relevant directions or parking information. Mention if the event is indoors or outdoors."
+
+    },
+    {
+        "id": "6",
+        "name": "Sports Event",
+        "image":"https://i.ibb.co/Wp0wswR/sport.jpg",
+        "price":8000,
+        "description":"A sport event description is essential for providing attendees with information about a sporting event, whether it's a game, tournament, race, or other athletic competition.Describe the seating options available, such as general admission, reserved seating, or luxury suites. Include details on how attendees can select or purchase their seats."
+
+    }
+    
+]
