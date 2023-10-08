@@ -16,6 +16,7 @@ const Register = () => {
       gogglePopup(provider)
       .then(result=>{
         console.log(result.userect)
+        return swal("Good job!", "You clicked the button!", "success")
       })
       .catch(err=>{
         console.error(err.message);
