@@ -49,12 +49,14 @@ const Register = () => {
 
        createUser(email,password)
        .then(result=>{
+
       console.log(result.user);
         setSucces('succesfull done')
         return swal("Good job!", "You clicked the button!", "success")
        })
        .catch(error=>{
         seterroPassword(error.message);
+        swal("Error!", "this is already use!", "error")
        })
     }
   return (
